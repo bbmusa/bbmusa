@@ -22,8 +22,8 @@
   <code><img height="40" src="https://img.icons8.com/nolan/64/unreal-engine.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"></code>
   
-  #### music
+  #### 😄 Current Mood
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1d2kuz77ssy6ij9lfs1qtkp8g&cover_image=false&theme=novatorem&bar_color=a51d2d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1d2kuz77ssy6ij9lfs1qtkp8g&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
   </code>
   
