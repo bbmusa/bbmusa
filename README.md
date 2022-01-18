@@ -1,4 +1,4 @@
- ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+Im+Yashaswa+Varshney;From+India)](https://git.io/typing-svg)
  [![Visits Badge](https://badges.pufler.dev/visits/bbmusa/bbmusa)](https://badges.pufler.dev/visits/bbmusa/bbmusa)
 
   - 🔭 I’m currently studying CSE in KIIT, Bbhubaneswar India 
