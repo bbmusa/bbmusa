@@ -18,9 +18,7 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/blender-3d.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/npm.png"></code>
-  <code><img height="40" src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"></code>
   <code><img height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-crypto-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"></code>
-  <code><img height="40" src="https://img.icons8.com/nolan/64/unreal-engine.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"></code>
   
   #### 😄 Current Mood
