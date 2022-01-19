@@ -2,14 +2,14 @@
  
  [![Visits Badge](https://badges.pufler.dev/visits/bbmusa/bbmusa)](https://badges.pufler.dev/visits/bbmusa/bbmusa)
 
-  - 🔭 I’m currently studying CSE in KIIT, Bbhubaneswar India 
+  - 🔭 I’m currently studying CSE in KIIT, Bhubaneswar India 
   - 🌱 learning: Node.js and Block-chain tech
-  - 💬 Ask me: about NFT, Finance and Basketball
+  - 💬 Ask me about NFT, Finance and Basketball
   - 😄 Other Intrests: Hiking (3 Himalayan peaks), Basketball and watching UFC
   
   #### 📫 How to reach me:
   
-  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRradUpW3_y-gZQgRQTPT5mh9UKtGW5vjmrAQ&usqp=CAU" width="3.5%"/>](https://www.linkedin.com/in/yashaswa-varshney/)  &nbsp; [<img src="https://img.icons8.com/dusk/64/000000/discord-logo.png" width="3.5%"/>](https://discordapp.com/users/sardarKhan#5425/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="3.5%"/>](https://twitter.com/yashthevar) &nbsp; <a href="mailto:yswa.var@gmail.com"> <img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="3.5%"/>
+  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRradUpW3_y-gZQgRQTPT5mh9UKtGW5vjmrAQ&usqp=CAU" width="4.5%"/>](https://www.linkedin.com/in/yashaswa-varshney/)  &nbsp; [<img src="https://img.icons8.com/dusk/64/000000/discord-logo.png" width="4.5%"/>](https://discordapp.com/users/sardarKhan#5425/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="4.5%"/>](https://twitter.com/yashthevar) &nbsp; <a href="mailto:yswa.var@gmail.com"> <img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="4.5%"/>
   
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://img.icons8.com/color/48/000000/python--v2.png"></code>
