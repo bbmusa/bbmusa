@@ -21,6 +21,10 @@
   <code><img height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-crypto-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"></code>
   
+  ### Books I'm currently reading
+  <!-- GOODREADS-LIST:START -->
+  <!-- GOODREADS-LIST:END -->
+ 
   #### 😄 Current Mood
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1d2kuz77ssy6ij9lfs1qtkp8g&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
