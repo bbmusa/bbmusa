@@ -5,7 +5,7 @@
   - 🔭 I’m currently studying CSE in KIIT, Bhubaneswar India 
   - 🌱 learning: Node.js and Block-chain tech
   - 💬 Ask me about NFT, Finance and Basketball
-  - 😄 Other Intrests: Hiking (3 Himalayan peaks), Basketball and watching UFC
+  - 😄 Other Intrests: Star-Gazing, Basketball and watching UFC
   
   #### 📫 How to reach me:
   
