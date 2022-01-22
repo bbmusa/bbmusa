@@ -21,13 +21,11 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/npm.png"></code>
   <code><img height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-crypto-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"></code>
+ 
   #### 📚 Books I'm Currently Reading
-  <!-- GOODREADS-LIST:START -->
-- [The Unicorn Project](https://www.goodreads.com/review/show/4113792468?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.06)
-- [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/3578941359?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐️4.14)
-- [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.35)
-- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/review/show/4457713693?utm_medium=api&utm_source=rss) by Héctor García (⭐️3.81)
-<!-- GOODREADS-LIST:END -->
+  
+- [Operating Systems: Three Easy Pieces](https://www.goodreads.com/book/show/17374825-operating-systems) by Remzi Arpaci-Dusseau (⭐️4.69)
+- [Endless Night](https://www.goodreads.com/book/show/16366.Endless_Night) by Agatha Christie  (⭐️3.89)
  
   #### 😄 Current Mood
   
