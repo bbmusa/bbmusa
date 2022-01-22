@@ -23,9 +23,8 @@
   <code><img height="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"></code>
  
   #### 📚 Books I'm Currently Reading
-  
-- [Operating Systems: Three Easy Pieces](https://www.goodreads.com/book/show/17374825-operating-systems) by Remzi Arpaci-Dusseau (⭐️4.69)
-- [Endless Night](https://www.goodreads.com/book/show/16366.Endless_Night) by Agatha Christie  (⭐️3.89)
+  -  <a href="https://www.goodreads.com/book/show/17374825-operating-systems">Operating Systems: Three Easy Pieces</a> by Remzi Arpaci-Dusseau (⭐️4.69)
+  -  <a href="https://www.goodreads.com/book/show/16366.Endless_Night">Endless Night</a> by Agatha Christie  (⭐️3.89)
  
   #### 😄 Current Mood
   
