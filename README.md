@@ -5,7 +5,7 @@
   - 🔭 I’m currently studying CSE in KIIT, Bhubaneswar India 
   - 🌱 learning: Node.js and Block-chain tech
   - 💬 Ask me about NFT, Finance and Basketball
-  - 😄 Other Intrests: Star-Gazing, <a href="https://yasv.artstation.com/">Art</a> and watching UFC
+  - 😄 Other Intrests: Star-Gazing, <a href="https://yasv.artstation.com/">Art</a> and trekking (3 Himalayan Peaks till now)
   - 👾 Fun Fact: <a href="https://10dalgo.in/">10Dalgo</a> is my new business where we provide Crypto devlopment serveices
   
   #### 📫 How to reach me:
