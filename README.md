@@ -3,7 +3,7 @@
  [![Visits Badge](https://badges.pufler.dev/visits/bbmusa/bbmusa)](https://badges.pufler.dev/visits/bbmusa/bbmusa)
 
   - 🔭 I’m currently studying CSE in KIIT, Bhubaneswar India 
-  - 🌱 learning: Node.js and Block-chain tech
+  - 🌱 learning: Data Science and Quant-Trading
   - 💬 Ask me about NFT, Finance and Basketball
   - 😄 Other Intrests: Star-Gazing, <a href="https://yasv.artstation.com/">Art</a> and trekking (3 Himalayan Peaks till now)
   - 👾 Fun Fact: <a href="https://10dalgo.in/">10Dalgo</a> is my new business where we provide Crypto devlopment serveices
