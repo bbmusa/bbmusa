@@ -2,7 +2,7 @@
  
  [![Visits Badge](https://badges.pufler.dev/visits/bbmusa/bbmusa)](https://badges.pufler.dev/visits/bbmusa/bbmusa)
 
-  - 🔭 I’m currently studying CSE in KIIT, Bhubaneswar India 
+  - 🔭 I’m currently studying Computer Sscience and Communication Enginner in KIIT, Bhubaneswar India 
   - 🌱 learning: Data Science and Quant-Trading
   - 💬 Ask me about NFT, Finance and Basketball
   - 😄 Other Intrests: Star-Gazing, <a href="https://yasv.artstation.com/">Art</a> and trekking (3 Himalayan Peaks till now)
