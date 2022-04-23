@@ -13,14 +13,10 @@
   [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRradUpW3_y-gZQgRQTPT5mh9UKtGW5vjmrAQ&usqp=CAU" width="4.5%"/>](https://www.linkedin.com/in/yashaswa-varshney/)  &nbsp; [<img src="https://img.icons8.com/dusk/64/000000/discord-logo.png" width="4.5%"/>](https://discordapp.com/users/sardarKhan#5425/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="4.5%"/>](https://twitter.com/yashthevar) &nbsp; <a href="mailto:yswa.var@gmail.com"> <img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="4.5%"/>
   
   #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/python--v2.png"></code>
-  <code><img height="40" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/000000/external-software-application-programming-with-brackets-and-slash-logotype-programing-duo-tal-revivo.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color-glass/96/000000/css.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/blender-3d.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/npm.png"></code>
-  <code><img height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-crypto-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"></code>
+ - Python in finance
+ - HFT Option Trading 
+ - Flask
+ - Excel 
  
   #### 📚 Books I'm Currently Reading
   -  <a href="https://www.goodreads.com/book/show/17374825-operating-systems">Operating Systems: Three Easy Pieces</a> by Remzi Arpaci-Dusseau (⭐️4.69)
