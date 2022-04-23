@@ -16,7 +16,7 @@
  - Python (Essential libraries around finance and data science)
  - HFT Option Trading 
  - Flask
- - Excel (power queries, VBA)
+ - Excel (power queries, VBA & cookies scraping)
  
   #### 📚 Books I'm Currently Reading
   -  <a href="https://www.goodreads.com/book/show/17374825-operating-systems">Operating Systems: Three Easy Pieces</a> by Remzi Arpaci-Dusseau (⭐️4.69)
