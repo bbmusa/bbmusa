@@ -19,8 +19,7 @@
  - Excel (power queries, VBA & cookies scraping)
  
   #### 📚 Books I'm Currently Reading
-  -  <a href="https://www.goodreads.com/book/show/17374825-operating-systems">Operating Systems: Three Easy Pieces</a> by Remzi Arpaci-Dusseau (⭐️4.69)
-  -  <a href="https://www.goodreads.com/book/show/16366.Endless_Night">Endless Night</a> by Agatha Christie  (⭐️3.89)
+  -  <a href="https://www.goodreads.com/book/show/49690728-algorithmic-trading-with-interactive-brokers?from_search=true&from_srp=true&qid=EJYx4Ds8o3&rank=10">Algorithmic Trading with Interactive Brokers</a> by Matthew Scarpino (⭐️4.69)
  
   #### 😄 Current Mood
   
