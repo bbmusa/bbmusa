@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+Im+Yashaswa+Varshney;From+India)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Yashaswa+Varshney;From+India)](https://git.io/typing-svg)
  
  [![Visits Badge](https://badges.pufler.dev/visits/bbmusa/bbmusa)](https://badges.pufler.dev/visits/bbmusa/bbmusa)
 
