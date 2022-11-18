@@ -23,6 +23,4 @@
  
   #### 😄 Current Mood
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1d2kuz77ssy6ij9lfs1qtkp8g&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  </code>
-  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lxTeF5zI1v4hfPafCZe5Y?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
