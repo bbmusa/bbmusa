@@ -23,4 +23,4 @@
  
   #### 😄 Current Mood
   
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lxTeF5zI1v4hfPafCZe5Y?utm_source=generator" width="100%" height="380"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks](https://open.spotify.com/track/4lxTeF5zI1v4hfPafCZe5Y?si=2fa4e763a8fa40ae)
