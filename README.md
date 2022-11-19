@@ -23,4 +23,4 @@
  
   #### 😄 Current Mood
   
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks](https://open.spotify.com/track/4lxTeF5zI1v4hfPafCZe5Y?si=2fa4e763a8fa40ae)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315r5czlqunwe2qe5snq6kcipyim&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=315r5czlqunwe2qe5snq6kcipyim&redirect=true)
