@@ -22,4 +22,4 @@
   
   #### 😄 check my music taste
 
-https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=sardarkhan&theme=dark&show_scrobbles=true
+![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=sardarkhan&OPTIONS)
