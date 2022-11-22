@@ -1,6 +1,4 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Yashaswa+Varshney;From+India)](https://git.io/typing-svg)
- 
- [![Visits Badge](https://badges.pufler.dev/visits/bbmusa/bbmusa)](https://badges.pufler.dev/visits/bbmusa/bbmusa)
 
   - 🔭 I’m currently studying Computer Science and Communication Enginner in KIIT, Bhubaneswar India 
   - 🌱 learning: Data Science and Quant-Trading
