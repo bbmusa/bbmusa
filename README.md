@@ -21,4 +21,5 @@
  
   
   #### 😄 check my music taste
- https://www.last.fm/user/sardarkhan
+
+https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=sardarkhan&theme=dark&show_scrobbles=true
