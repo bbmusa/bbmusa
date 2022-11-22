@@ -19,4 +19,6 @@
   #### 📚 Books I'm Currently Reading
   -  <a href="https://www.goodreads.com/book/show/49690728-algorithmic-trading-with-interactive-brokers?from_search=true&from_srp=true&qid=EJYx4Ds8o3&rank=10">Algorithmic Trading with Interactive Brokers</a> by Matthew Scarpino (⭐️4.69)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+  #### 😄 check my music taste
+ https://www.last.fm/user/sardarkhan
