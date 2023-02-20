@@ -7,8 +7,8 @@
   
   #### 📫 How to reach me:
   
-  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRradUpW3_y-gZQgRQTPT5mh9UKtGW5vjmrAQ&usqp=CAU" width="4.5%"/>](https://www.linkedin.com/in/yashaswa-varshney/)  &nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" width="4.5%"/>](https://twitter.com/yashthevar) &nbsp; <a href="mailto:yswa.var@gmail.com"> <img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="4.5%"/>
-  
+  https://www.linkedin.com/in/yashaswa-varshney/
+
   #### 👨🏻‍💻 Languages and Tools <br />
  - Python (Essential libraries around finance and data science)
  - Algo trading & Quantative analysis
