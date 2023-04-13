@@ -3,7 +3,7 @@
   - I’m currently studying Computer Science and Communication Enginner in KIIT, Bhubaneswar India 
   - learning: Data Science
   - Ask me about Data Science, Quantative Finance and Machine learning
-  - ther Intrests: Star-Gazing, <a href="https://yasv.artstation.com/">Art</a> and trekking (3 Himalayan Peaks till now)
+  - Intrests: Star-Gazing, <a href="https://yasv.artstation.com/">Art</a> and trekking (3 Himalayan Peaks till now)
   
   #### 📫 How to reach me:
   
