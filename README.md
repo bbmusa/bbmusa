@@ -5,4 +5,4 @@ I'm love using oop's methods in my coding.
 Currently a B.Tech Cs&ce student 2024 batch,
 Searching for good job to make meaningfull contribution!
 
-and I'm gonna be king o the pirates! 
+and I'm gonna be king of the pirates! 
