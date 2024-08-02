@@ -1,9 +1,6 @@
 # Yashaswa Varshney
 Aligarh, UP | +91 6396300355 | [yswa.var@icloud.com](mailto:yswa.var@icloud.com) | [GitHub: bbmusa](https://github.com/bbmusa) | DOB: 02-02-2002
 
-## Professional Summary
-Dedicated and innovative software developer with a strong foundation in backend development, database operations, and automation solutions. Experienced in building robust applications using Python, FastAPI, and various database technologies. Keen interest in financial technology and data analytics, with a proven track record of developing efficient tools for market analysis and backtesting systems.
-
 ## Education
 **B.Tech in Computer Science and Communication** (Minor: Financial Economics using Data Analytics)  
 Kalinga Institute of Industrial Technology  
@@ -37,46 +34,12 @@ CGPA: 8.20 | 2020 - 2024
 - Databases: PostgreSQL, Redis, InfluxDB
 - Version Control: Git
 - Containerization: Docker
-- Data Visualization: Power BI
 
 ### Technical Skills
 - Data Structures and Algorithms
 - Data Analysis and Visualization
 - Database Design and Optimization
 - API Development and Integration
-- Linux Systems Administration
 
-### Soft Skills
-- Problem-solving
-- Active Listening
-- Effective Communication
-- Team Collaboration
+- Maintain a [blog on Medium](https://medium.com/@yashaswa) covering topics in software development and finance
 
-## Projects
-
-### Relative Rotation Graphs
-[GitHub Repository](https://github.com/bbmusa/StockLens)
-- Developed a full-stack analysis tool for comparing securities performance against benchmarks
-- Implemented functionality for both premade and custom indexes
-- Utilized data visualization techniques to present complex financial data in an intuitive manner
-
-### EasyBT Python Library
-[GitHub Repository](https://github.com/bbmusa/EasyBt)
-- Created a Python library to streamline the process of backtesting trading strategies
-- Implemented features for downloading option data and generating historical buy-sell signals
-- Leveraged C++ and Python pipeline libraries to optimize performance
-
-## Certifications and Achievements
-- Achieved 113th Institute Rank on GeeksforGeeks
-- Completed Power BI Workshop certification
-- Winner of Mega Utopia Concept Art competition on Artstation Weekly
-- Successfully conquered Chandrashilla Peak (6000 ft) with IndiaHikes
-
-## Interests and Hobbies
-- Technical Writing: Maintain a [blog on Medium](https://medium.com/@yashaswa) covering topics in software development and finance
-- Outdoor Activities: Passionate about Himalayan hiking and swimming
-- Cultural Exploration: Enjoy visiting and learning about historical places
-- Continuous Learning: Actively pursue online courses in emerging technologies and financial markets
-
-## References
-Available upon request
